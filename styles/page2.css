@@ -5,3 +5,13 @@ td {
 #info {
   font-size: 20px;
 }
+
+#image_attributes {
+  border-radius: 15px;
+
+}
+.div-attributes{
+  width: 40%;
+  float: right;
+  padding-top: 20px
+}
