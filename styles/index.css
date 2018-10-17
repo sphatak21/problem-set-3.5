@@ -2,8 +2,13 @@ td {
   width:16.6666666666666666%;
 }
 body {
-  background-color: green;
+  background-color: lightblue;
 }
-p.info  {
+.info  {
   font-size: 20px;
+}
+.image_attributes {
+  border-style: solid;
+  border-color: black;
+  height: 300px;
 }
