@@ -1,0 +1,20 @@
+img {
+height: 100px;
+border-radius: 25px;
+}
+#txt {
+font-size: 20px;
+}
+body {
+background-color: purple;
+}
+a:link{
+color: blue;
+}
+a:visited{
+color: pink;
+}
+a:hover{
+background-color: lightblue;
+}
+

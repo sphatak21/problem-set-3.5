@@ -1,0 +1,35 @@
+*{
+font-size: 20px;
+}
+a:hover{
+background-color: yellow;
+}
+body {
+background-color: magenta;
+}
+td {
+  width:16.6666666666666666%;
+}
+img {
+height: 200px;
+border-radius: 30px;
+}
+#important {
+font-size: 25px;
+}
+a:hover{
+background-color: lightblue;
+}
+a:link{
+color: blue;
+}
+a:visited{
+color: black;
+}
+
+ul>li{
+font-weight: bold;
+}
+ol>li{
+font-style: italic;
+}
