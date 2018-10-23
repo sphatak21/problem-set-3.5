@@ -1,0 +1,21 @@
+a[href$*="nfl"]{
+font-style: bold;
+}
+a[href*="espn"]{
+font-style: italic;
+}
+a[href*="yahoo"]{
+background-color: yellow;
+}
+td {
+  width:16.6666666666666666%;
+}
+#tall {
+height: 30px;
+}
+body {
+background: tan;
+}
+a:hover{
+background-color: lightblue;
+}

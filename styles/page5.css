@@ -1,0 +1,20 @@
+img {
+height: 100px;
+border-radius: 13px;
+}
+body {
+background-color: lightgreen;
+}
+.hedwide {
+  width: 16.6666666666666666%;
+}
+h4 + table {
+border: 1px solid black;
+}
+a:hover{
+background-color: lightblue;
+}
+thead > th {
+border: 1px solid black;
+}
+
